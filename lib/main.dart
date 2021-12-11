@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'navigation/route_generator.dart';
 import 'tiktok_apk_main.dart';
 import 'package:tiktok_apk/utils/shared_preferences.dart';
+// import 'package:firebase_auth/firebase_auth.dart';
 
 void main() {
   runApp(const MyApp());
